@@ -60,7 +60,7 @@ namespace Arduico
 
     
         }
-        // string MyConnection2 = "server=eu-cdbr-azure-west-c.cloudapp.net;user=b074b2d0238c8d;database=housekeARAOixyqd;port=3306;password=e7a7c926;";
+        // string MyConnection2 = "xxxxxxxxxx;user=xxxxxxx;database=xxxxxx;port=3306;password=mmmmmmm;";
         private void button3_Click(object sender, EventArgs e)
         {
          arduiport = new SerialPort(comboBox1.SelectedItem.ToString(), 9600); // port number + data rate in bits per sec
@@ -88,7 +88,7 @@ namespace Arduico
                 MySqlCommand MyCommand = new MySqlCommand(Query, connection);
                 MySqlDataReader MyReader;
                
-                MyReader = MyCommand.ExecuteReader();     // Here our query will be executed and data saved into the database.
+                MyReader = MyCommand.ExecuteReader();     // Here our query will be executed
                 if (MyReader.Read())
                 {
                     if (id == MyReader.GetValue(0).ToString())
@@ -130,7 +130,7 @@ namespace Arduico
                 MyAdapter.SelectCommand = MyCommand;
                 DataTable dTable = new DataTable();
                 MyAdapter.Fill(dTable);
-                dataGridView1.DataSource = dTable; // here i have assign dTable object to the dataGridView1 object to display data.             
+                dataGridView1.DataSource = dTable; // here i have assigned a dTable object to the dataGridView1 object to display data.             
 
             }
             catch (Exception ex)
