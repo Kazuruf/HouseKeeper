@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MOUAD</Machine>
+    <WindowsUser>bounabi</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>642d8c0d-b804-48cc-bbcb-b4eea43e753b</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\bin\Debug\instructables for windows.WindowsPhone.exe">
+      <PackagePath>instructables for windows.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\Assets\demphone.scale-100.png">
+      <PackagePath>Assets\demphone.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\Assets\Logo1.scale-240.png">
+      <PackagePath>Assets\Logo1.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\Assets\logo310.scale-100.png">
+      <PackagePath>Assets\logo310.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\Assets\store.scale-100.png">
+      <PackagePath>Assets\store.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\bin\Debug\instructables for windows.WindowsPhone.xr.xml">
+      <PackagePath>instructables for windows.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

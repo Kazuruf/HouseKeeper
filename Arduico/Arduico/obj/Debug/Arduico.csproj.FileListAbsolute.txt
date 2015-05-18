@@ -1,0 +1,8 @@
+C:\Users\bounabi\Desktop\Arduico\Arduico\obj\Debug\Arduico.Form1.resources
+C:\Users\bounabi\Desktop\Arduico\Arduico\obj\Debug\Arduico.Properties.Resources.resources
+C:\Users\bounabi\Desktop\Arduico\Arduico\obj\Debug\Arduico.csproj.GenerateResource.Cache
+C:\Users\bounabi\Desktop\Arduico\Arduico\bin\Debug\Arduico.exe.config
+C:\Users\bounabi\Desktop\Arduico\Arduico\bin\Debug\Arduico.exe
+C:\Users\bounabi\Desktop\Arduico\Arduico\bin\Debug\Arduico.pdb
+C:\Users\bounabi\Desktop\Arduico\Arduico\obj\Debug\Arduico.exe
+C:\Users\bounabi\Desktop\Arduico\Arduico\obj\Debug\Arduico.pdb

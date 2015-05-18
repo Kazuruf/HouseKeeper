@@ -1,0 +1,32 @@
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\bin\Release\App.xbf
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\bin\Release\MainPage.xbf
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\bin\Release\instructables for windows.WindowsPhone.xr.xml
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\bin\Release\instructables for windows.WindowsPhone.exe
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\bin\Release\instructables for windows.WindowsPhone.pdb
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\bin\Release\resources.pri
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\bin\Release\instructables for windows.WindowsPhone.build.appxrecipe
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\App.g.cs
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\MainPage.g.i.cs
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\MainPage.g.cs
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\App.xaml
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\MainPage.xaml
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\App.xbf
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\MainPage.xbf
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\instructables for windows.WindowsPhone.exe
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\instructables for windows.WindowsPhone.pdb
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\ProjectArchitectures.txt

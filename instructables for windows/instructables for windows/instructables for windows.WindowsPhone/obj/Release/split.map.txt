@@ -1,0 +1,16 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-240"
+"ResourceDimensions"		"language-en"
+
+[Files]
+"C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\split.pri"			"resources.pri"
+"C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\PackageLayout\MainPage.xbf"			"MainPage.xbf"
+"C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\PackageLayout\instructables for windows.WindowsPhone.xr.xml"			"instructables for windows.WindowsPhone.xr.xml"
+"C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\PackageLayout\Assets\WideLogo.scale-240.png"			"Assets\WideLogo.scale-240.png"
+"C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\PackageLayout\Assets\StoreLogo.scale-240.png"			"Assets\StoreLogo.scale-240.png"
+"C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\PackageLayout\Assets\Square71x71Logo.scale-240.png"			"Assets\Square71x71Logo.scale-240.png"
+"C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\PackageLayout\Assets\SplashScreen.scale-240.png"			"Assets\SplashScreen.scale-240.png"
+"C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\PackageLayout\Assets\SmallLogo.scale-240.png"			"Assets\SmallLogo.scale-240.png"
+"C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\PackageLayout\Assets\Logo1.scale-240.png"			"Assets\Logo1.scale-240.png"
+"C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\PackageLayout\Assets\Logo.scale-240.png"			"Assets\Logo.scale-240.png"
+"C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\PackageLayout\App.xbf"			"App.xbf"

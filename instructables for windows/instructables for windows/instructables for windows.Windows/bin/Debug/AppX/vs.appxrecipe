@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MOUAD</Machine>
+    <WindowsUser>bounabi</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>36214D9.instructablesforwindows</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>6863F287BFBBD0AC42B6C785B81E8452896252DE5DA44D5AD88639F3FC33091B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>36214D9.instructablesforwindows_1.1.0.1_neutral__sys3tm7vhftfr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>36214D9.instructablesforwindows_sys3tm7vhftfr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>36214D9.instructablesforwindows</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=50F9E358-F209-44F9-A65A-B7BC581818D6</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.1</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-18T21:27:59.891</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\bin\Debug\instructables for windows.Windows.exe">
+      <PackagePath>instructables for windows.Windows.exe</PackagePath>
+      <Modified>2015-05-18T21:27:58.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\assest\log310-310.scale-100.png">
+      <PackagePath>assest\log310-310.scale-100.png</PackagePath>
+      <Modified>2015-05-05T09:25:14.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\assest\logo310.scale-100.png">
+      <PackagePath>assest\logo310.scale-100.png</PackagePath>
+      <Modified>2015-05-05T09:23:36.258</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\Assets\carre.scale-100.png">
+      <PackagePath>Assets\carre.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-05T09:33:51.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-05T09:19:33.248</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <Modified>2015-05-05T09:33:51.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\Assets\splash.scale-100.png">
+      <PackagePath>Assets\splash.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-05T09:29:01.063</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <Modified>2013-04-29T22:56:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\Assets\Store.scale-100.png">
+      <PackagePath>Assets\Store.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-05T09:30:27.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <Modified>2013-04-29T22:56:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-05T10:16:02.610</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-05T10:16:02.613</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\bin\Debug\instructables for windows.Windows.xr.xml">
+      <PackagePath>instructables for windows.Windows.xr.xml</PackagePath>
+      <Modified>2015-05-05T10:16:02.580</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-18T21:27:59.111</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

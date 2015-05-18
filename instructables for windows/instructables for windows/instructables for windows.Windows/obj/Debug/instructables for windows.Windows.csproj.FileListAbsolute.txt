@@ -1,0 +1,64 @@
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\bin\Debug\App.xbf
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\bin\Debug\MainPage.xbf
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\bin\Debug\instructables for windows.Windows.xr.xml
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\bin\Debug\instructables for windows.Windows.exe
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\bin\Debug\instructables for windows.Windows.pdb
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\bin\Debug\resources.pri
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\bin\Debug\AppxManifest.xml
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\bin\Debug\instructables for windows.Windows.build.appxrecipe
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\App.g.i.cs
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\App.g.cs
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\MainPage.g.cs
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\App.xaml
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\App.xbf
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\MainPage.xaml
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\MainPage.xbf
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\instructables for windows.Windows.exe
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\instructables for windows.Windows.pdb
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\priconfig.xml
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\layout.resfiles
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\resources.resfiles
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\pri.resfiles
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\qualifiers.txt
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\bin\Debug\App.xbf
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\bin\Debug\MainPage.xbf
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\bin\Debug\instructables for windows.Windows.xr.xml
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\bin\Debug\instructables for windows.Windows.exe
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\bin\Debug\instructables for windows.Windows.pdb
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\bin\Debug\resources.pri
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\bin\Debug\AppxManifest.xml
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\bin\Debug\instructables for windows.Windows.build.appxrecipe
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\App.g.i.cs
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\App.g.cs
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\MainPage.g.cs
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\App.xaml
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\MainPage.xaml
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\App.xbf
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\MainPage.xbf
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\instructables for windows.Windows.exe
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\instructables for windows.Windows.pdb
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\priconfig.xml
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\layout.resfiles
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\resources.resfiles
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\pri.resfiles
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\qualifiers.txt
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\bounabi\Desktop\junk\instructables for windows\instructables for windows\instructables for windows.Windows\obj\Debug\ProjectArchitectures.txt

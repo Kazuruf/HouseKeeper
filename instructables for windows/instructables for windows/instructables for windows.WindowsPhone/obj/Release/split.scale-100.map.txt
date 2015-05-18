@@ -1,0 +1,11 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-100"
+"ResourceDimensions"		"scale-100"
+
+[Files]
+"C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\split.scale-100.pri"			"resources.pri"
+"C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\PackageLayout\Assets\StoreLogo.scale-100.png"			"Assets\StoreLogo.scale-100.png"
+"C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\PackageLayout\Assets\store.scale-100.png"			"Assets\store.scale-100.png"
+"C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\PackageLayout\Assets\SplashScreen.scale-100.png"			"Assets\SplashScreen.scale-100.png"
+"C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\PackageLayout\Assets\logo310.scale-100.png"			"Assets\logo310.scale-100.png"
+"C:\Users\bounabi\Desktop\instructables for windows\instructables for windows\instructables for windows.WindowsPhone\obj\Release\PackageLayout\Assets\demphone.scale-100.png"			"Assets\demphone.scale-100.png"
