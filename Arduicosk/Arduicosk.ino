@@ -12,14 +12,12 @@ void setup(void) {
 
  _lock.attach(9); 
     Serial.begin(9600);
-   // Serial.println("Hello!");
-
     nfc.begin();
 
     uint32_t versiondata = nfc.getFirmwareVersion();
     if (! versiondata) {
         Serial.print("Didn't find PN53x board");
-        while (1); // halt (infinite loop
+        while (1); // halt endless loop
     }
 
     nfc.SAMConfig();
